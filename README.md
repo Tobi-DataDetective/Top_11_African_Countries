@@ -4,11 +4,11 @@ This project looks in to some features / characteristics of this top 11 countrie
 
 ### Features Analyzed
 The trends analyzed are listed below
-* 15 plus employment rate: an exploratory analysis on employment rate of a 15 year old and above in the countries.
-* GDP per capital Inflation: an exploratory analysis on the GDP per Capital inflation of a the countries.
-* Life expectancy: an exploratory analysis on life expectancy of the countries.
-* Primary school completion rate for boys: an exploratory analysis on Primary school completion rate of boys in a particular countries.
-* Primary school completion rate for girls: an exploratory analysis on Primary school completion rate of girls in a particular countries.
+* **15 plus employment rate:** an exploratory analysis on employment rate of a 15 year old and above in the countries.
+* **GDP per capital Inflation:** an exploratory analysis on the GDP per Capital inflation of a the countries.
+* **Life expectancy:** an exploratory analysis on life expectancy of the countries.
+* **Primary school completion rate for boys:** an exploratory analysis on Primary school completion rate of boys in a particular countries.
+* **Primary school completion rate for girls:** an exploratory analysis on Primary school completion rate of girls in a particular countries.
 
 ### Findings
 **Primary school completion rate for girls**
