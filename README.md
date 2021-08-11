@@ -12,15 +12,11 @@ The trends analyzed are listed below
 
 ### Findings
 **Primary school completion rate for girls**
-* When looking generally from 2000 to 2019, Algeria had the the highest overall average of 1.09 (109%)and Ethiopia had the lowest overall average of 0.158 (15.8%) . 
-* When taking the current state (which in this data situation is 2019) Ethiopia has the lowest average with 0.39 (39%) and Egypt has the maximum average with 1.05 (105%).
 * From the trend Diagram the countries that improved most were Cote d'ivoire (moving from a rate of above 38% to a rate of about 78%), Ethiopia (moving from a rate of less than 20% to a rate of  50% in 2010 but drops to 40% in 2016 and maintained till 2019),Morocco(moving from a rate of above 50% to a rate of about 97%)and also Ghana (moving from a rate of above 60% to a rate of about 78%).
 * Countries with a good overall trend of primary completion rate since 2000 to 2019 can be said to be Algeria, Egypt and Tunisia.
 * Counties which could be said to have made no improvement over time are Nigeria and Congo Rep.
 
 **Primary school completion rate for boys**
-* When looking generally from 2000 to 2019, Algeria had the the highest overall average of 1.19 (119%)and Ethiopia had the lowest overall average of 0.287 (28.7%). 
-* When taking the current state (which in this data situation is 2019) Ethiopia has the lowest average with 0.49 (49%) and Egypt has the maximum average with 1.04 (104%).
 * From the trend Diagram the countries that improved most were Cote d'ivoire (moving from a rate of above 50% to a rate of about 80%) and Morocco(moving from a rate of above 60% to a rate of about 97%).
 * Countries with a good overall trend of primary completion rate since 2000 to 2019 can be said to be Algeria, Egypt and Tunisia.
 * Counties which could be said to have made no improvement over time are Nigeria and Congo Rep.
