@@ -48,20 +48,20 @@ The trends analyzed are listed below
 * Few countries have not made significant changes over the year, such as, Morocco, Egypt, South Africa and Tunisia.
 
 ### Datasets
-1. [aged_15plus_employment_rate_percent.csv]()  
+1. [aged_15plus_employment_rate_percent.csv](https://github.com/Tobi-DataDetective/Top_11_African_Countries/blob/master/aged_15plus_employment_rate_percent.csv)  
 
-2. [gdppercapita_us_inflation_adjusted.csv]()  
+2. [gdppercapita_us_inflation_adjusted.csv](https://github.com/Tobi-DataDetective/Top_11_African_Countries/blob/master/gdppercapita_us_inflation_adjusted.csv)  
 
-3. [life_expectancy_years.csv]()  
+3. [life_expectancy_years.csv](https://github.com/Tobi-DataDetective/Top_11_African_Countries/blob/master/life_expectancy_years.csv)  
 
-4. [primary_school_completion_percent_of_boys.csv]()  
+4. [primary_school_completion_percent_of_boys.csv](https://github.com/Tobi-DataDetective/Top_11_African_Countries/blob/master/primary_school_completion_percent_of_boys.csv)  
 
-5. [primary_school_completion_percent_of_girls.csv]()  
+5. [primary_school_completion_percent_of_girls.csv](https://github.com/Tobi-DataDetective/Top_11_African_Countries/blob/master/primary_school_completion_percent_of_girls.csv)  
 
 
 ### Report
 The reports are generated to three formats, .ipynb, .pdf and .html:
-* [Trends_On_Top_African_Countries.ipynb]()
-* [Trends_On_Top_African_Countries.pdf]()
-* [Trends_On_Top_African_Countries.html]()
+* [Trends_On_Top_African_Countries.ipynb](https://github.com/Tobi-DataDetective/Top_11_African_Countries/blob/master/Trends_On_Top_African_Countries.ipynb)
+* [Trends_On_Top_African_Countries.pdf](https://github.com/Tobi-DataDetective/Top_11_African_Countries/blob/master/Trends_On_Top_African_Countries%20-%20Jupyter%20Notebook.pdf)
+* [Trends_On_Top_African_Countries.html](https://github.com/Tobi-DataDetective/Top_11_African_Countries/blob/master/Trends_On_Top_African_Countries.html)
 
